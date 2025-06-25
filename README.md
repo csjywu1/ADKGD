@@ -1,9 +1,5 @@
 ## ADKGD: Anomaly Detection in Knowledge Graphs with Dual-Channel Training
 
-[![Paper](https://img.shields.io/badge/arXiv-2501.07078v1-b31b1b.svg)](https://arxiv.org/abs/2501.07078)
-
-**Authors:** Jiayang Wu, Wensheng Gan, Jiahao Zhang, Philip S. Yu
-
 
 ### Overview
 
@@ -34,9 +30,9 @@ The complete datasets and code could be downloaded from https://pan.baidu.com/s/
 
 ### Citation
 
-If you use ADKGD in your research or for your project, **please cite our paper**:
+If you use ADKGD in your research or for your project, please cite our paper:
 
-```bibtex
+bibtex
 @article{wu2025adkgd,
   title={ADKGD: Anomaly Detection in Knowledge Graphs with Dual-Channel Training},
   author={Jiayang Wu and Wensheng Gan and Jiahao Zhang and Philip S. Yu},
@@ -44,7 +40,7 @@ If you use ADKGD in your research or for your project, **please cite our paper**
   year={2025},
   url={https://arxiv.org/abs/2501.07078},
 }
-```
+
 
 ### Contact
 
