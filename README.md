@@ -13,7 +13,7 @@ ADKGD **outperforms state-of-the-art methods** on several benchmark datasets inc
 ```bash
 git clone https://github.com/csjywu1/ADKGD.git
 cd ADKGD
-
+```
 ### Datasets
 
 Supported datasets:
